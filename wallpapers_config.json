@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "name": "Anims",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/anims/0f4b7e5138fc7d4c41d6e1ca0fb0d74f.jpg"
+      ]
+    },
+    {
+      "name": "Nature",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/nature/pexels-francesco-ungaro-2325447.jpg",
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/nature/pexels-alena-koval-233944-886521.jpg"
+      ]
+    },
+    {
+      "name": "Animals",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/animals/pexels-pixabay-45201.jpg",
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/animals/pexels-pixabay-47547.jpg"
+      ]
+    },
+    {
+      "name": "Abstract",
+      "wallpapers": [
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/abstract/pexels-anniroenkae-2693208.jpg",
+        "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/wallpaper/abstract/pexels-anniroenkae-2693212.jpg"
+      ]
+    }
+  ],
+  "live_wallpapers": [
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE2.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE3.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE4.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE5.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE6.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE7.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE8.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE9.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE10.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE11.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE12.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE13.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE14.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE15.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE16.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE19.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE20.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE21.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE23.mp4",
+    "https://raw.githubusercontent.com/theworldofstickers/theworldofstickers/main/live_wallpaper/LIVE24.mp4"
+  ]
+}
